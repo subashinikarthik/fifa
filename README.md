@@ -1,0 +1,1 @@
+FIFA 20 player data analysis project using Python to explore player attributes, ratings, and market value. Includes data cleaning, exploratory data analysis, and visualizations using Pandas, NumPy, Matplotlib, and Seaborn. Identifies top players, position-wise comparisons, and insights into factors influencing overall ratings and performance
